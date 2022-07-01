@@ -1,3 +1,4 @@
-import React from 'react';
+import MainPage from './MainPage';
+import SignInPage from './SignInPage';
 
-export default () => <>template</>;
+export { MainPage, SignInPage };
